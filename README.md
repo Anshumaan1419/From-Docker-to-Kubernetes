@@ -5,7 +5,7 @@
   
   <h3>A Free & Open Source Learning Platform for Container Orchestration</h3>
 
-  [![GitHub stars](https://img.shields.io/github/stars/NotHarshhaa/from-docker-to-kubernetes?style=social)](https://github.com/NotHarshhaa/from-docker-to-kubernetes/stargazers)
+
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
@@ -144,7 +144,7 @@ We welcome contributions from the community! Whether it's:
 - 💡 Suggesting features
 - 🌍 Translations
 
-Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+
 
 ## 📦 Deployment
 
@@ -159,23 +159,13 @@ Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 - [TailwindCSS](https://tailwindcss.com) - Styling
 
 ## 📞 Connect With Us
-
-- [GitHub](https://github.com/NotHarshhaa)
-- [LinkedIn](https://linkedin.com/in/harshhaa-vardhan-reddy)
-- [Telegram](https://t.me/NotHarshhaa)
-- [Website](https://prodevopsguytech.com)
-
+- [LinkedIn]((https://www.linkedin.com/in/anshumaan-singh-49a731333/))
 ## ❤️ Support
 
 If you find this project helpful, please consider:
 
 - ⭐ Starring the repository
-- 🍕 [Supporting us on Ko-fi](https://ko-fi.com/NotHarshhaa)
 - 📢 Sharing with your network
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📅 Latest Updates
 
@@ -188,49 +178,3 @@ Our latest release (v1.8.0) includes:
 - **GitOps with Flux and ArgoCD**: Declarative infrastructure management for Kubernetes
 
 [View the full changelog](https://dockertokubernetes.live/getting-started/changelog)
-
-## 🙏 Acknowledgments
-
-- Thanks to all our [contributors](https://github.com/NotHarshhaa/from-docker-to-kubernetes/graphs/contributors)
-- Built with [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
-- Special thanks to the DevOps community
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by the ProDevOpsGuy Tech Community</sub>
-</div>
-
----
-
-## 📢 Stay Updated  
-
-🔔 **Regular updates** keep this collection **relevant and practical**.  
-⭐ **Star this repository** to stay updated!  
-
----
-
-## 🛠️ Author & Community  
-
-This project is crafted with 💡 by **[Harshhaa](https://github.com/NotHarshhaa)**.  
-Your feedback is always welcome! Let's build together. 🚀  
-
-📧 **Connect with me:**  
-🔗 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-🔗 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-🔗 **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-🔗 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If this helped you, consider:  
-✅ **Starring** ⭐ this repository  
-✅ **Sharing** 📢 with your network  
-
----
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
